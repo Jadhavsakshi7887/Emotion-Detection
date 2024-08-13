@@ -14,7 +14,7 @@ You can set up the environment using the following steps:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/emotion-detection-cnn.git
+git clone https://github.com/Jadhavsakshi7887/emotion-detection-cnn.git
 cd emotion-detection-cnn
 Create a Virtual Environment (Optional but recommended):
 
