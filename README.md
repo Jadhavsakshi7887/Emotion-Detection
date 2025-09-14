@@ -5,6 +5,10 @@ This project is an **Emotion Detection model** built using **Convolutional Neura
 The model classifies emotions in images of faces into different categories such as **happy, sad, angry**, etc.  
 It is designed to be used for various applications including **sentiment analysis**, **human-computer interaction**, and more.
 
+# Trained on Google Colab
+
+This model was trained using Google Colab, leveraging its free GPU/TPU resources for faster computation
+
 ---
 
 ## **Features**
